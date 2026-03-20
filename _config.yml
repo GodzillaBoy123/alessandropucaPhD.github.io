@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "FotoCv2.png"
   name             : "Alessandro Puca"
   pronouns         : # example: "she/her"  
   bio              : "Plant pathologist with a dual PhD in Agricultural and Environmental Sciences (DAGRI, University of Florence & LVBE, Université de Haute-Alsace). Expertise in molecular techniques (qPCR, digital PCR, LAMP), expecially for invasive species detection. Knowleadgeable about fungal wood degradation processes."
