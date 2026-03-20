@@ -10,7 +10,11 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+ - title: "CV"
+    url: /files/Cv_AlessandroPuca_Ok.pdf
+    #url: /cv/
+    
   - title: "Talks"
     url: /talks/    
 
@@ -22,10 +26,6 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  - title: "CV"
-    url: /files/Cv_AlessandroPuca_Ok.pdf
-    #url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
